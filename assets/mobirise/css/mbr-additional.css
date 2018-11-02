@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.08rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.3rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.08rem;
 }
 .form-control,
 .form-control:focus {
@@ -2993,7 +2993,17 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r798tlVwYP {
+  padding-top: 75px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/2018-10-25-22.26.18-1366x768.png");
+}
+.cid-r798tlVwYP .mbr-text,
+.cid-r798tlVwYP .mbr-section-btn {
+  text-align: center;
+  color: #efefef;
+}
+.cid-r8gNhc76FG {
+  background-color: #767676;
 }
 .cid-r7f0u7wXAm {
   padding-top: 90px;
@@ -4273,7 +4283,10 @@ body {
   color: #ff3366;
 }
 .cid-r7eWb4T9QU P {
-  color: #efefef;
+  color: #ffffff;
+}
+.cid-r7eWb4T9QU B {
+  color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
